@@ -81,7 +81,7 @@
 #define __STDC_LIMIT_MACROS
 #include <stdint.h>
 #include <Arduino.h>
-#include <SPI.h>
+#include <Wire.h>
 
 // Firmware data for self-test
 // Reference values based on firmware version
